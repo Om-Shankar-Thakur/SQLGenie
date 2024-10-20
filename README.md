@@ -32,8 +32,22 @@ SQLGenie is a Streamlit application designed to convert natural language questio
    ```bash
    streamlit run app.py
 
-# OR
+## OR
 
-Open your browser and go to:
+5. Open your browser and go to:
    ```bash
-http://localhost:8501 to use the application.
+   http://localhost:8501 to use the application.
+
+
+## Database Structure
+
+The SQLite database (student.db) has a table named STUDENT1 with the following columns:
+      ```bash
+
+      NAME: Name of the student
+      CLASS: Class of the student
+      SECTION: Section of the student
+      MARKS: Marks obtained by the student
+
+## Output:
+![Output](imgs/output.png)
