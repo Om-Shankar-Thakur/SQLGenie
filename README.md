@@ -42,7 +42,6 @@ SQLGenie is a Streamlit application designed to convert natural language questio
 ## Database Structure
 
 The SQLite database (student.db) has a table named STUDENT1 with the following columns:
-      ```bash
 
       NAME: Name of the student
       CLASS: Class of the student
